@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @letsbenameless
-- 👀 I’m interested in robotics!
-- 🌱 I'm teaching myself complex numbers so I can use more integration techniques. I’m also currently training to do a front lever.
-- 💞️ I’m looking to collaborate on any robotics projects.
-- 📫 Email me at rockateeer12@gmail.com if you wanna chat.
+- 👋 Hi, I’m Michael Chappell, a talented full stack developer
+- 👀 I’m currently studying at the Queensland University of Technology
+- 🌱 My course code is IN01, which is the Bachelor of Information Technology. I am majoring in computer science.
+- 📫 Email me at michael.chappell.2004@gmail.com if you have any projects you would like done.
 
 <!---
 letsbenameless/letsbenameless is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
